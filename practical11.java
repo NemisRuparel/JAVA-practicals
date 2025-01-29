@@ -13,7 +13,7 @@ class Shape{
         System.out.println("Area ofRectangle : "+area);
     }
 }
-public class pr11{
+public class practical11{
 public static void main(String[] args) {
         Shape s1 = new Shape();
         Scanner sc = new Scanner(System.in);

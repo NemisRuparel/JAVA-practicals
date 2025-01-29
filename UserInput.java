@@ -14,5 +14,6 @@ class UserInput{
 		{
 			System.out.println(i);
 		}
+		sc.close();
 	}
 }		

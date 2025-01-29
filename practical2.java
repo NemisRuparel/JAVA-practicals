@@ -21,5 +21,6 @@ class practical2{
 		else{
 			System.out.println("c is Maximum");
 		}
+		sc.close();
 	}
 }

@@ -11,5 +11,6 @@ class practical3{
 			System.out.print(remainder);
 			a = a/10; 
 		}
+		sc.close();
 	}
 }
