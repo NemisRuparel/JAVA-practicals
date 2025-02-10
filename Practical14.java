@@ -1,6 +1,6 @@
 // Write a program in Java to demonstrate single inheritance
 class Provider{
-    int i=10;
+   protected int i=10;
 }
 class Consumer extends Provider{
     public void print() {

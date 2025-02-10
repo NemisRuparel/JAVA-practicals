@@ -1,9 +1,9 @@
 // Write a program in Java to demonstrate multilevel inheritance
 class AA{
-    int i=0;
+   protected int i=0;
 }
 class BB extends AA{
-    int j=0;
+    protected int j=0;
     void bmethod(){
         i = 10;
         System.out.println("BB class accessing AA class variable's value : "+i);
