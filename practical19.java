@@ -17,6 +17,5 @@ public class practical19 {
         C1 objC1 = new C1();
         objC1.I1method();
         objC1.I2method();
-    }
-    
+    }   
 }
